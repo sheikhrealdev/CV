@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;   
+    color: #333;
+}
+
+a {
+    text-decoration: none;    
+    color: #0a66c2;
+    cursor: wait;
+}
+
+h1 {
+    color: #1a1a1a;
+    letter-spacing: 4px; 
+}
+
+h2 {
+    color: #0a66c2;
+}
+
+img {
+    border-radius: 8px;
+}
+
+p {
+    background-color: #ffffff;     
+    line-height: 2;    
+}
+
+sub {
+    color: #555;
+}
+
+sup {
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
+label {
+    color: #1a1a1a;
+}
+
+input{
+    border-radius: 8px;
+}
+
+textarea {
+    line-height: 2;
+    border-radius: 8px;
+}
+
+input[type="submit"]{
+    background-color: #0a66c2;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+input[type="reset"] {
+    background-color: #666;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
